@@ -10,6 +10,8 @@ The project was supposed to use any data structure, the game implements STACK da
 Once my friend was explaning me this game, and i noticed that the putting of cards on table and picking them up was 
 very simliar to a STACK ... so i made it.
 
+### Code might slowdown for large number of decks
+
 # How to play ?
 Just open the "bluff-game.c" file in any IDE (VSCode preferred), and hit "RUN" button, and then open the terminal fully {easier to play} wait a sec,
 and then just follow the instructions on the screen, and Enjoy ! 
