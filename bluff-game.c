@@ -256,6 +256,10 @@ void CALL(int p, int pass)
     {
         top++;
         int HMC, WR, AC[no_of_deck * 4];
+        // HMC -> How Many Cards
+        // WR -> Which Rank 
+        // AC -> Actual Cards 
+        // might be different , these comments where written way after the code was written
         printf("\n\t\tHow many cards, you want to keep on Table ? : ");
         scanf("%d", &HMC);
         printf("\n\t\tWhat is the Rank of each card ? (other's can see this) : ");
